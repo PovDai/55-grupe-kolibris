@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('../pic/Hummingbird.png'); 
+    background-image: url('../pic/bird.webp'); 
     background-size: cover; /* reiskiasi neatsiras daugiau pauksciu bus tik vienas paveiksliukas */
     height: 100vh;
 }
